@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+
+    <div class="card">
+        <div class="card-header">
+            Stock Prediction
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Stock Prediction using Recurrent Neural Networks.</h5>
+
+            <p class="card-text">We've build a model that predicts High and Low stock price for upcoming months or week.
+            User can set thresold(min,max) and sms or call alerts will be provided to user as your model will predict the High and Low is going beyond the thresold.</p>
+
+            <a class="btn btn-primary" href="/check_stock">Check Stock</a>
+        </div>
+    </div>
+
+{% endblock content %}

@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    <div class="cotent-section">
+        <form method="POST" action="">
+            {{ form.hidden_tag() }}
+
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">Test today!</legend>
+                <div class="form">
+                    {{ form.phone_no.label(class="form-control-label") }}
+                    {{ form.phone_no(class="form-control form-control-lg") }}
+                </div>
+                <div class="form">
+                    {{ form.threshold.label(class="form-control-label") }}
+                    {{ form.threshold(class="form-control form-control-lg") }}
+                </div>
+            </fieldset>
+
+            <div class="form-group">
+                {{ form.submit(class="btn btn-outline-info") }}
+            </div>
+        </form>
+    </div>
+{% endblock %}
