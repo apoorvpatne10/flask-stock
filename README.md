@@ -14,3 +14,9 @@ Code deployed at this [link](http://devengersstocking.azurewebsites.net/home) us
 
 `python application.py`
 
+## Actual vs Predicted values
+![Pred](https://i.imgur.com/KIREbkO.png)
+
+## Training loss vs Validation loss
+![Pred](https://i.imgur.com/zYaXz0Z.png)
+
