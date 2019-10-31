@@ -6,7 +6,7 @@ Code deployed at this [link](http://devengersstocking.azurewebsites.net/home) us
 
 `git clone https://github.com/pawanfalak/flask-stock/`
 
-`cd flask run`
+`cd flask-stock`
 
 `pip install -r requirements.txt`
 
