@@ -1,6 +1,6 @@
 # flask-stock
 
-Code deployed at this [link](http://devengersstocking.azurewebsites.net/home) using Azure Web Services.
+Stock prediction using LSTMs. Code deployed at this [link](http://devengersstocking.azurewebsites.net/home) using Azure Web Services.
 
 ## Run locally
 
