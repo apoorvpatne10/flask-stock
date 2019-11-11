@@ -4,7 +4,7 @@ Stock prediction using LSTMs. Code deployed at this [link](http://devengersstock
 
 ## Run locally
 
-`git clone https://github.com/apoorvpatne10/flask-stock
+`git clone https://github.com/apoorvpatne10/flask-stock`
 
 `cd flask-stock`
 
