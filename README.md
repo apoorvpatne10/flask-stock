@@ -20,3 +20,6 @@ Stock prediction using LSTMs. Code deployed at this [link](http://devengersstock
 ## Training loss vs Validation loss
 ![Pred](https://i.imgur.com/zYaXz0Z.png)
 
+## Hacknight
+![pic](https://i.imgur.com/J1qHN9U.jpg)
+
